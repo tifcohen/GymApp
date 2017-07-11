@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="82dp"
+    android:layout_height="90dp">
+    <TextView
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/day_of_week"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/dayOfWeek"/>
+    <Button
+        android:layout_below="@id/day_of_week"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/day_of_month"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:textColor="@color/dayOfMonth"
+        android:background = "@drawable/round_button"/>
+</RelativeLayout>

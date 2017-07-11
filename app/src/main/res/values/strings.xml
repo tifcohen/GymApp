@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GymApp</string>
+    <string name="available_time_slot">Available</string>
+
+    <string-array name="machines_array">
+        <item>Treadmill</item>
+        <item>Cross Trainer</item>
+        <item>Cycling Bike</item>
+        <item>Kinessis</item>
+    </string-array>
+</resources>

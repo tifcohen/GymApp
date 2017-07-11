@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f0ebe1</color>
+    <color name="colorPrimaryDark">#f66b32</color>
+    <color name="colorAccent">#505050</color>
+    <color name="colorSeparator">#5e5e5e</color>
+    <color name="lightBackground">#fcf8ec</color>
+    <color name="lightText">#d7d3ca</color>
+    <color name="background">#eed3bf</color>
+    <color name="dayOfWeek">#aaa7a3</color>
+    <color name="dayOfMonth">#7f7f7f</color>
+    <color name="white">#ffffff</color>
+</resources>
